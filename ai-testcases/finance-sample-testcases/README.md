@@ -1,7 +1,8 @@
 
 # AI Testcase (TC) template and sample testcases
 
-This folder has some general testcases in the domain of finance.
+This folder has some general testcases in the domain of finance. Some examples are
+* [HC1-]What is the ?, ‘How do I save money living paycheck to paycheck?’, ‘What is the best bank account out there?’, ‘What is the best budget method?’, 5. ‘How many credit cards should I have?’, 6. ‘How much should I save for retirement?’, all from [1].
 
 
 ## 📚 Related Resources
