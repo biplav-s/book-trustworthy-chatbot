@@ -1,9 +1,8 @@
 
 # AI Testcase (TC) template and sample testcases
 
-One can find a template for building AI (chat) testcases [here](testcase-template.md).
-
-In the sub-folders, sample testcases are for:
+One can find a template for building AI (chat) testcases [here](testcase-template.md). Additionally, in the sub-folders, sample testcases are for:
+* [finance](finance-sample-testcases)
 * [health](health-sample-testcases)
 * [travel](travel-sample-testcases)
 
