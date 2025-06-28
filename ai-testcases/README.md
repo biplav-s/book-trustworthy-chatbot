@@ -4,8 +4,8 @@
 One can find a template for building AI (chat) testcases [here](testcase-template.md).
 
 In the sub-folders, sample testcases are for:
-* health
-* travel
+* [health](health-sample-testcases)
+* [travel](travel-sample-testcases)
 
 ----
 
