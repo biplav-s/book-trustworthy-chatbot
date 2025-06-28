@@ -1,5 +1,5 @@
 # AI Testcase (TC) Template
-_ //This file has a template for recording testcases for chatbots_
+_ // This file has a template for recording testcases for chatbots_
 
 ### 1. TC-identifier: 
 _ // Identifier for the test case._
