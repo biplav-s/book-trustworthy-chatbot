@@ -1,11 +1,15 @@
 
 # AI Testcase (TC) template and sample testcases
 
-One can find a template for building AI (chat) testcases [here](testcase-template.md).
+This folder has some general testcases in the domain of finance.
 
-In the sub-folders, sample testcases are for:
-* [health](health-sample-testcases)
-* [travel](travel-sample-testcases)
+
+## 📚 Related Resources
+
+1. Article - [Does ChatGPT offer good financial advice? 6 answers reviewed](https://www.boston25news.com/news/does-chatgpt-offer-good-financial-advice-6-answers-reviewed/QHE4KCXMI5KX7AZOMBCLZZ6QYQ/), by Bethany Hickey for Finder.com, 2025.
+
+2. Research paper - [LLMs for Financial Advisement: A Fairness and Efficacy Study in Personal Decision Making](https://dl.acm.org/doi/fullHtml/10.1145/3604237.3626867); Kausik Lakkaraju, Sara Rae Jones, Sai Krishna Revanth Vuruma, Vishal Pallagani, Bharath C Muppasani and Biplav Srivastava; 4th ACM International Conference on AI in Finance: ICAIF'23, New York, 2023
+
 
 ----
 
