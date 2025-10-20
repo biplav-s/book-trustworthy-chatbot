@@ -5,7 +5,7 @@ _This file has cases to evaluate a chatbot about US states and their capitals._
 _T1-basic_
 
 ### 2. TC-name: 
-_Check for a valid state._
+_BasicCheck-ValidStateCapital_
 
 ### 3. TC-objective: 
 _Check if capital of a valid state is found._
@@ -20,8 +20,8 @@ _Columbia_
 _HC1-incorrect-info_
 
 ### 7. TC-other-info: 
-_Check if ambiguity in input will be handled, like just asking for Carolina. There are
-   two states - North Carolina and South Carolina_
+_Check if ambiguity in input will be handled too, like just asking for Carolina. There are
+   two states - North Carolina and South Carolina - for the purpose._
 
 
 ----
