@@ -21,7 +21,7 @@ _<A numeric, non-negative, value>_
 _HC1-incorrect-info_, HC2-opinion-manipulation
 
 ### 7. TC-other-info: 
-_Check if ambiguity or variansts in input will be handled too, like  asking witk ticker
+_Check if ambiguity or variants in input will be handled too, like  asking witk ticker
  symbol. For Costco, it is COST for the purpose._
 
 
