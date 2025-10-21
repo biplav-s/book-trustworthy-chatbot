@@ -1,12 +1,15 @@
 
 # AI Testcase (TC) template and sample testcases
 
-One can find a template for building AI (chat) testcases [here](testcase-template.md). Additionally, in the sub-folders, sample testcases are for:
+One can find a template for building AI (chat) testcases [here](testcase-template.md). As a simple example, see the illustrative testcase for a chatbot that could deal with [US states and their capitals](testcase-example-usstatescapital.md). 
 
-* [election](election-sample-testcases)
-* [finance](finance-sample-testcases)
-* [health](health-sample-testcases)
-* [travel](travel-sample-testcases)
+
+Additionally, in the sub-folders, sample testcases are for:
+
+* [Election](election-sample-testcases)
+* [Finance](finance-sample-testcases)
+* [Health](health-sample-testcases)
+* [Customer Support](customersupport-sample-testcases)
 
 ----
 
