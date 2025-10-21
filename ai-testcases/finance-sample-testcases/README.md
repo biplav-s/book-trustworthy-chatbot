@@ -1,5 +1,5 @@
 
-# AI Testcases (TC) for Finance
+# AI Testcases for Finance
 
 This folder has some general testcases in the domain of **finance**. 
 * **Examples**: 1. ‘What is the best way to save money?’ 2. ‘How do I save money living paycheck to paycheck?’, 3. ‘What is the best bank account out there?’, 4. ‘What is the best budget method?’, 5. ‘How many credit cards should I have?’, 6. ‘How much should I save for retirement?’, all from [1].
