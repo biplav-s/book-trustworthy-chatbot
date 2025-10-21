@@ -1,5 +1,5 @@
 
-# AI Testcase (TC) template and sample testcases
+# AI Testcases (TC) template and sample testcases
 
 One can find a template for building AI (chat) testcases [here](testcase-template.md). As a simple example, see the illustrative testcase for a chatbot that could deal with [US states and their capitals](testcase-example-usstatescapital.md). 
 
