@@ -1,5 +1,5 @@
 
-# AI Testcase (TC) template and sample testcases
+# AI Testcases for Elections
 
 This folder has some general testcases in the domain of **elections**. 
 * **Examples**: 1. ‘When is the election date?’ 2. ‘Who is standing for elections?’, 3. ‘What are the issues?’
