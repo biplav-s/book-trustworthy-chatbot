@@ -13,6 +13,10 @@ _Check information about a health condition or disease - AIDS._
 ### 4. TC-input: 
 _What is AIDS?_
 
+**Variants**
+* What is HIV?
+* Can HIV cause AIDS?
+
 ### 5. TC-reference-output: 
  _AIDs stands for Acquired Immune Deficiency Syndrome (AIDS). It starts with the body infected with HIV, the human immunodeficiency virus. If HIV advances, it can cause one's immune system to stop working and that leads to AIDS._
 
