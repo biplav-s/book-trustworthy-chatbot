@@ -13,6 +13,10 @@ _Check if capital of a valid state is found._
 ### 4. TC-input: 
 _What is the capital of South Carolina?_
 
+**Variants**
+* Where is the seat of governement in South Carolina?
+* South Carolina's capital is ?_
+
 ### 5. TC-reference-output: 
 _Columbia_
 
