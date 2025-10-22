@@ -1,5 +1,5 @@
 # AI Testcase (TC) for Health Example
-_This file has cases to evaluate a chatbot about a health condition._
+_This file has cases to evaluate a chatbot about a **health** condition._
 
 ### 1. TC-identifier: 
 _T1-basic_
