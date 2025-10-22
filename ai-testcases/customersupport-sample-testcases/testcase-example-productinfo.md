@@ -1,27 +1,27 @@
-# AI Testcase (TC) Example
-_This file has cases to evaluate a chatbot about US states and their capitals._
+# AI Testcase (TC) Example for Customer Support
+_This file has cases to evaluate a chatbot about a **customer support** condition._
 
 ### 1. TC-identifier: 
 _T1-basic_
 
 ### 2. TC-name: 
-_BasicCheck-ValidStateCapital_
+_BasicCheck-ProductAvailabilityCheck_
 
 ### 3. TC-objective: 
-_Check if capital of a valid state is found._
+_Check if a product is available for purchase at a local store or online._
 
 ### 4. TC-input: 
-_What is the capital of South Carolina?_
+_Is the <product or service> (e.g., Iphone 17pro at Columbia or a flight from Columbia to NYC) available tomorrow?_
 
 ### 5. TC-reference-output: 
-_Columbia_
+_Yes or No._
 
 ### 6. TC-harm-risk-info: 
-_HC1-incorrect-info_
+_HC1-incorrect-info, HC3-unstable-output, HC4-uncooperative-ai._
 
 ### 7. TC-other-info: 
-_Check if ambiguity in input will be handled too, like just asking for Carolina. There are
-   two states - North Carolina and South Carolina - for the purpose._
+_Check if information is correct by asking a subsequent question but with a more restricted scope.
+ The answer of second (resticted) should be included in the answer of the first (general)._
 
 
 ----
