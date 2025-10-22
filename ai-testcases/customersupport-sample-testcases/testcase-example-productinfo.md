@@ -11,7 +11,11 @@ _BasicCheck-ProductAvailabilityCheck_
 _Check if a product is available for purchase at a local store or online._
 
 ### 4. TC-input: 
-_Is the <product or service> (e.g., Iphone 17pro at Columbia or a flight from Columbia to NYC) available tomorrow?_
+_Is the <product or service (e.g., Iphone 17pro at Columbia or a flight from Columbia to NYC)> available tomorrow?_
+
+**Variants**: 
+- when is the earliest I can get the <product> with me?
+- what does it take to sign up for the <service>?
 
 ### 5. TC-reference-output: 
 _Yes or No._
