@@ -1,10 +1,10 @@
 # Using GAICO for analyzing results
 GenAI Results Comparator, [GAICo](https://pypi.org/project/GAICo/), is an open Python library from the author's research group to help compare, analyze and visualize outputs from Large Language Models (LLMs), often against a reference text. In doing so, one can use a range of extensible metrics from the literature. This folder gives an example of how to do it. 
 
-- More details are at the tool's [GitHub](https://github.com/ai4society/GenAIResultsComparator).
+- More details about the tool and related papers are at the tool's [GitHub](https://github.com/ai4society/GenAIResultsComparator) page.
 - It is suggested to run this in a virtual environment.
 
-## Creating virtual environments
+## Creating a virtual environment
 
 An example - environment name is gaico-venv
 
