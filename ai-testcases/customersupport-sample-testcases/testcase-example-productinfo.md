@@ -21,11 +21,11 @@ _Is the <product or service (e.g., Iphone 17pro at Columbia or a flight from Col
 _Yes or No._
 
 ### 6. TC-harm-risk-info: 
-_HC1-incorrect-info, HC3-unstable-output, HC4-uncooperative-ai._
+_HC1-incorrect-info, HC3-unstable-extrauserinfo, HC4-incomprehensible-ai._
 
 ### 7. TC-other-info: 
 _Check if information is correct by asking a subsequent question but with a more restricted scope.
- The answer of second (resticted) should be included in the answer of the first (general)._
+ The answer of second question (restricted scope) should be included in the answer of the first question (general scope)._
 
 
 ----
