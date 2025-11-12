@@ -17,7 +17,7 @@ _What is the price for Costco?_
 _<A numeric, non-negative, value>_
 
 ### 6. TC-harm-risk-info: 
-// Choices: HC1-incorrect-info, HC2-opinion-manipulation, HC3-unstable-output, HC4-uncooperative-ai. Or, use HC5 for others.
+// Choices: HC1-incorrect-info, HC2-opinion-manipulation, HC3-unstable-extrauserinfo, HC4-incomprehensible-ai. Or, use HC5 for others.
 
 _HC1-incorrect-info_, HC2-opinion-manipulation
 
